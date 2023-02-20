@@ -1,0 +1,26 @@
+
+
+#main-container {
+    height: 100%;
+    background-color: #ebeaea;
+}
+
+#cards {
+    background-color: #fbfbfb;
+    border: 1px solid #d3d3d3;
+}
+
+#card-title {
+    color: #006400;
+
+}
+
+#card-text {
+    color: #2e2e2e
+}
+
+#graphs-btn {
+    background-color: #0f4c81;
+    border: 1px solid #7EB2DD;
+    color: #f1f1f1;
+}
